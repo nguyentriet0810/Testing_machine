@@ -1,0 +1,10 @@
+../Core/Src/main.c:76:6:microDelay	16	static
+../Core/Src/main.c:82:9:getHX711	24	static
+../Core/Src/main.c:109:5:weigh	32	static
+../Core/Src/main.c:125:5:getForce	24	static
+../Core/Src/main.c:144:5:main	16	static
+../Core/Src/main.c:200:6:SystemClock_Config	72	static
+../Core/Src/main.c:240:13:MX_TIM1_Init	32	static
+../Core/Src/main.c:286:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:331:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:370:6:Error_Handler	4	static,ignoring_inline_asm

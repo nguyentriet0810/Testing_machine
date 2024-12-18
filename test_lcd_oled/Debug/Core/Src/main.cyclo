@@ -1,0 +1,13 @@
+../Core/Src/main.c:103:6:microDelay	2
+../Core/Src/main.c:109:9:getHX711	5
+../Core/Src/main.c:136:5:weigh	2
+../Core/Src/main.c:157:5:main	65
+../Core/Src/main.c:761:6:SystemClock_Config	3
+../Core/Src/main.c:801:13:MX_I2C1_Init	2
+../Core/Src/main.c:835:13:MX_TIM1_Init	7
+../Core/Src/main.c:910:13:MX_TIM2_Init	4
+../Core/Src/main.c:955:13:MX_TIM3_Init	4
+../Core/Src/main.c:1000:13:MX_TIM4_Init	4
+../Core/Src/main.c:1045:13:MX_GPIO_Init	1
+../Core/Src/main.c:1106:6:HAL_TIM_PeriodElapsedHalfCpltCallback	1
+../Core/Src/main.c:1128:6:Error_Handler	1

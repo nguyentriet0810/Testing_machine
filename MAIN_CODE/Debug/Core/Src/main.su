@@ -1,0 +1,15 @@
+../Core/Src/main.c:100:6:microDelay	16	static
+../Core/Src/main.c:106:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:143:9:getHX711	24	static
+../Core/Src/main.c:170:5:weigh	32	static
+../Core/Src/main.c:186:5:getForce	24	static
+../Core/Src/main.c:199:6:send_values	64	static
+../Core/Src/main.c:215:5:main	24	static
+../Core/Src/main.c:629:6:SystemClock_Config	72	static
+../Core/Src/main.c:669:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:703:13:MX_TIM1_Init	96	static
+../Core/Src/main.c:778:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:823:13:MX_TIM4_Init	32	static
+../Core/Src/main.c:868:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:901:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:969:6:Error_Handler	4	static,ignoring_inline_asm

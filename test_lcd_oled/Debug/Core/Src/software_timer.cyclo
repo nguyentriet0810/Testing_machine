@@ -1,0 +1,4 @@
+../Core/Src/software_timer.c:15:6:set_timer3	1
+../Core/Src/software_timer.c:22:6:set_timer4	1
+../Core/Src/software_timer.c:28:6:run_timer3	3
+../Core/Src/software_timer.c:39:6:run_timer4	3

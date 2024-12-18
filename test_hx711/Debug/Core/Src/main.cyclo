@@ -1,0 +1,10 @@
+../Core/Src/main.c:76:6:microDelay	2
+../Core/Src/main.c:82:9:getHX711	5
+../Core/Src/main.c:109:5:weigh	2
+../Core/Src/main.c:125:5:getForce	2
+../Core/Src/main.c:144:5:main	2
+../Core/Src/main.c:200:6:SystemClock_Config	3
+../Core/Src/main.c:240:13:MX_TIM1_Init	4
+../Core/Src/main.c:286:13:MX_TIM2_Init	4
+../Core/Src/main.c:331:13:MX_GPIO_Init	1
+../Core/Src/main.c:370:6:Error_Handler	1
